@@ -13,7 +13,7 @@ body
 
 @media (min-width: 1200px) {
   .container {
-    width: 970px; /* Consider making this min or max-width */
+    width: 970px;
   }
 }
 
