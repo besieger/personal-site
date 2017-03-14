@@ -13,7 +13,7 @@ body
 
 @media (min-width: 1200px) {
   .container {
-    width: 970px;
+    width: 970px; /* Consider making this min or max-width */
   }
 }
 
@@ -27,19 +27,6 @@ h1,h3
 {
 	text-align: center;
 }
-
-
-.img-rhs
-{
-	text-align: right;
-}
-
-
-.img-lhs
-{
-	text-align: left;
-}
-
 
 .screenshot-placeholder
 {
