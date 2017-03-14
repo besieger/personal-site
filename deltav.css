@@ -11,6 +11,7 @@ body
 }
 
 
+/* Setting a max width */
 @media (min-width: 1200px) {
   .container {
     width: 970px;
@@ -55,4 +56,10 @@ h1,h3
 .copyright
 {
 	text-align: center;
+}
+
+
+.standard-button
+{
+	width:180px;
 }
