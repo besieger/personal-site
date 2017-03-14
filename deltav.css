@@ -11,6 +11,13 @@ body
 }
 
 
+@media (min-width: 1200px) {
+  .container {
+    width: 970px;
+  }
+}
+
+
 .icon
 {
 	height: 50px;
@@ -46,7 +53,19 @@ h1,h3
 }
 
 
+.vert-space-small
+{
+	height: 10px;
+}
+
+
 .text-block
 {
 	vertical-align: middle;
+}
+
+
+.copyright
+{
+	text-align: center;
 }
