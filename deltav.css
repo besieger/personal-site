@@ -1,7 +1,19 @@
 body
 {
 	background: #111122;
-	color: #9999aa;
+	color: #aaaabb;
+}
+
+
+h1, h2, h3, h4, h5
+{
+	color: #ddddee;
+}
+
+
+dt
+{
+	color: #bbbbcc;
 }
 
 
@@ -19,14 +31,15 @@ body
 }
 
 
+.header-top, .header-title
+{
+	text-align: center;
+}
+
+
 .icon
 {
 	height: 50px;
-}
-
-h1,h3
-{
-	text-align: center;
 }
 
 .screenshot-placeholder
@@ -62,4 +75,16 @@ h1,h3
 .standard-button
 {
 	width:180px;
+}
+
+a:link, a:visited
+{
+	//font-weight: bold;
+	color: #5599ee;
+}
+
+a:hover, a:active
+{
+	//font-weight: bold;
+	color: #77bbff;
 }
